@@ -1,0 +1,72 @@
+.homepage-banner {
+    background-image: url("../../assets/svg/homepage-backhround.svg");
+    padding: 5%;
+  }
+  .select-table {
+    background-color: white;
+    border-radius: 8px;
+    height: 340px;
+    width: 100%;
+    padding: 2%;
+  }
+  .checked-input {
+    margin-bottom: 10px;
+    padding-right: 5px;
+    height: 45px;
+    width: 100%;
+    border: 1px solid rgb(2, 48, 71, 0.2);
+    border-radius: 5px;
+    background-color: white;
+    background-image: url("../../assets/svg/konum.svg");
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    padding-left: 40px;
+    max-width: 100%;
+  }
+  .select-input {
+    margin-bottom: 20px;
+    padding-right: 5px;
+    height: 45px;
+    width: 100%;
+    border: 1px solid rgb(2, 48, 71, 0.2);
+    border-radius: 5px;
+    background-color: white;
+    background-image: url("../../assets/svg/konum.svg");
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    padding-left: 40px;
+    max-width: 100%;
+  }
+  .date-input {
+    position: relative;
+    width: 100%;
+    height: 45px;
+    max-width: 100%;
+    border: 1px solid rgb(2, 48, 71, 0.2);
+    border-radius: 5px;
+    background-color: white;
+    background-image: url("../../assets/svg/date.svg");
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+  }
+  
+  .react-datepicker-wrapper {
+    max-width: 100%;
+    width: 100%;
+  }
+  
+  input[type="text"]::placeholder {
+    /* Firefox, Chrome, Opera */
+    padding-left: 40px;
+    width: 100%;
+  }
+  
+ 
+  @media only screen and (min-width: 960px) {
+  }
+  
+  @media only screen and (max-width: 960px) {
+    .select-table {
+      padding: 20px;
+      height: 370px !important;
+    }}

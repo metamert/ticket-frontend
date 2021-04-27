@@ -1,0 +1,139 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.fullh{
+  height: 80vh;
+}
+.form-responsive{
+background-color: white;
+ 
+ 
+  padding: 10px;
+  
+  position: "relative",
+  
+ 
+}
+
+.searchContainer{
+  max-height: 90vh;
+ 
+width: 100%;
+height: 100vh;
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+background-color: #ff385c;
+position: relative !important;
+}
+.fs-lg{
+  font-size: 44px;
+}
+.mb-5{
+  margin-bottom: 30px;
+}
+.mr-4{
+  margin-right: 30px !important;
+}
+
+.wh{
+  color: white;
+}
+.bold{
+  font-weight: 600;
+}
+
+
+h1,h2,h3,h4,h5,h6,p,span{
+  font-family: 'Inter', sans-serif !important;
+}
+
+
+
+
+
+
+
+
+
+
+.searchParent{
+  width: 50%;
+  height: 70px;
+  position: relative;
+}
+.input:focus{
+  border: none;
+
+}
+
+.searchParent>input{
+  padding-left: 20px;
+font-size: 20px;
+  width: 100%;
+  height: 100%;
+  border: 1px solid white !important;
+  border-radius: 20px;
+
+}
+.searchIcon{
+  color: white;
+}
+
+.circle{
+  width: 40px;
+  height: 40px;
+  background-color: #ff385c;
+  border-radius: 20px;
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  display: flex;
+  justify-content: center;
+
+align-items: center;
+text-align: center;
+}
+
+
+@media only screen and (max-width: 900px) {
+  .form-responsive {
+    width: 85%;
+  }
+
+.back{
+font-size: 40px !important;
+position: absolute;
+left: 10%;
+top: 80px;
+
+}
+
+}
+
+
+@media only screen and (min-width: 900px) {
+  .form-responsive {
+    width: 60%;
+  }
+
+  .back{
+    font-size: 60px !important;
+    position: absolute;
+    left: 10%;
+    top: 100px;
+    
+    }
+
+}

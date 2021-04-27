@@ -1,0 +1,198 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="496" viewBox="0 0 1920 496">
+  <svg xmlns="http://www.w3.org/2000/svg" width="1920" height="496" viewBox="0 0 1920 496">
+  <rect id="Rectangle_1600" data-name="Rectangle 1600" width="1920" height="496" fill="#0081a7"/>
+</svg>
+
+  
+  
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_4081" data-name="Rectangle 4081" width="1920" height="496" transform="translate(-343.111 3095.487)" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="2.121" gradientTransform="matrix(0.169, 0, 0, -1, 0.846, -14.577)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.293" cy="-1.524" r="0.009" gradientTransform="matrix(0.1, 0, 0, -1.001, 0.836, -24.284)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#cdcdcd" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="1.037" cy="-4.609" r="0.004" gradientTransform="translate(0.382) scale(0.237 1)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-4" cx="0.865" cy="-7.647" r="0" gradientTransform="translate(0.415) scale(0.169 1)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-5" cx="0.791" cy="-12.707" r="0" gradientTransform="translate(0.45) scale(0.1 1)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-6" cx="0.89" cy="-4.852" r="0.004" gradientTransform="translate(0.382) scale(0.237 1)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-7" cx="1.566" cy="-0.702" r="0" gradientTransform="translate(-2.458) scale(5.916 1)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-8" cx="2.684" cy="-0.66" r="0" gradientTransform="translate(-4.496) scale(9.991 1)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-9" cx="0.997" cy="-0.602" r="0" gradientTransform="translate(-1.611) scale(4.222 1)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-10" cx="2.81" cy="-0.737" r="0" gradientTransform="translate(-2.458) scale(5.916 1)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-11" cx="4.645" cy="-0.693" r="0" gradientTransform="translate(-4.496) scale(9.991 1)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-12" cx="1.778" cy="-0.604" r="0" gradientTransform="translate(-1.707) scale(4.414 1)" xlink:href="#radial-gradient-2"/>
+    <linearGradient id="linear-gradient" x1="0.91" y1="-625.892" x2="0.91" y2="-625.946" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.271"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.907" y1="-626.736" x2="0.907" y2="-626.791" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0.903" y1="-627.581" x2="0.903" y2="-627.635" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="0.9" y1="-628.425" x2="0.9" y2="-628.479" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="0.897" y1="-629.269" x2="0.897" y2="-629.323" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" x1="0.893" y1="-630.113" x2="0.893" y2="-630.168" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-7" x1="0.89" y1="-630.887" x2="0.89" y2="-630.942" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-8" x1="0.887" y1="-631.731" x2="0.887" y2="-631.786" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-9" x1="0.883" y1="-632.576" x2="0.883" y2="-632.63" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-10" x1="0.88" y1="-633.42" x2="0.88" y2="-633.474" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-11" x1="0.877" y1="-634.264" x2="0.877" y2="-634.319" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-12" x1="0.873" y1="-635.108" x2="0.873" y2="-635.163" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-13" x1="0.87" y1="-635.953" x2="0.87" y2="-636.007" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-14" x1="0.866" y1="-636.727" x2="0.866" y2="-636.781" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-15" x1="0.863" y1="-637.571" x2="0.863" y2="-637.626" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-16" x1="0.859" y1="-638.344" x2="0.859" y2="-638.399" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-17" x1="0.704" y1="-632.378" x2="0.704" y2="-632.433" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-18" x1="0.701" y1="-633.222" x2="0.701" y2="-633.277" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-19" x1="0.697" y1="-634.067" x2="0.697" y2="-634.121" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-20" x1="0.694" y1="-634.911" x2="0.694" y2="-634.966" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-21" x1="0.691" y1="-635.755" x2="0.691" y2="-635.81" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-22" x1="0.687" y1="-636.599" x2="0.687" y2="-636.654" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-23" x1="0.684" y1="-637.373" x2="0.684" y2="-637.428" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-24" x1="0.681" y1="-638.217" x2="0.681" y2="-638.272" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-25" x1="0.677" y1="-639.062" x2="0.677" y2="-639.116" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-26" x1="0.674" y1="-639.906" x2="0.674" y2="-639.961" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-27" x1="0.671" y1="-640.75" x2="0.671" y2="-640.805" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-28" x1="0.667" y1="-641.594" x2="0.667" y2="-641.649" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-29" x1="0.664" y1="-642.439" x2="0.664" y2="-642.493" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-30" x1="0.661" y1="-643.213" x2="0.661" y2="-643.267" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-31" x1="0.657" y1="-644.057" x2="0.657" y2="-644.112" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-32" x1="0.654" y1="-644.831" x2="0.654" y2="-644.885" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-33" x1="-159.519" y1="-0.591" x2="-159.519" y2="-0.592" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-34" x1="-156.894" y1="-0.593" x2="-156.894" y2="-0.594" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-35" x1="-154.269" y1="-0.595" x2="-154.269" y2="-0.596" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-36" x1="-151.988" y1="-0.597" x2="-151.551" y2="-0.597" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-37" x1="-149.488" y1="-0.599" x2="-149.051" y2="-0.599" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-38" x1="-146.863" y1="-0.601" x2="-146.426" y2="-0.601" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-39" x1="-144.239" y1="-0.603" x2="-143.802" y2="-0.603" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-40" x1="-141.739" y1="-0.605" x2="-141.302" y2="-0.605" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-41" x1="-139.239" y1="-0.607" x2="-138.802" y2="-0.607" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-42" x1="-136.614" y1="-0.609" x2="-136.177" y2="-0.609" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-43" x1="-134.115" y1="-0.611" x2="-133.678" y2="-0.611" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-44" x1="-131.49" y1="-0.613" x2="-131.053" y2="-0.613" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-45" x1="-128.865" y1="-0.615" x2="-128.428" y2="-0.615" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-46" x1="-126.365" y1="-0.617" x2="-125.928" y2="-0.617" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-47" x1="-123.865" y1="-0.619" x2="-123.428" y2="-0.619" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-48" x1="-120.897" y1="-0.62" x2="-120.897" y2="-0.62" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-49" x1="-425.336" y1="-0.373" x2="-424.899" y2="-0.373" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-50" x1="-422.711" y1="-0.375" x2="-422.274" y2="-0.375" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-51" x1="-420.087" y1="-0.377" x2="-419.65" y2="-0.377" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-52" x1="-417.587" y1="-0.379" x2="-417.15" y2="-0.379" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-53" x1="-415.087" y1="-0.381" x2="-414.65" y2="-0.381" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-54" x1="-412.462" y1="-0.383" x2="-412.025" y2="-0.383" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-55" x1="-409.838" y1="-0.384" x2="-409.401" y2="-0.384" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-56" x1="-407.119" y1="-0.386" x2="-407.119" y2="-0.387" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-57" x1="-404.62" y1="-0.388" x2="-404.62" y2="-0.389" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-58" x1="-401.995" y1="-0.39" x2="-401.995" y2="-0.391" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-59" x1="-399.495" y1="-0.392" x2="-399.495" y2="-0.392" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-60" x1="-396.87" y1="-0.394" x2="-396.87" y2="-0.395" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-61" x1="-394.246" y1="-0.396" x2="-394.246" y2="-0.396" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-62" x1="-391.964" y1="-0.398" x2="-391.527" y2="-0.398" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-63" x1="-389.465" y1="-0.4" x2="-389.028" y2="-0.4" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-64" x1="-386.715" y1="-0.402" x2="-386.278" y2="-0.402" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Group_13314" data-name="Group 13314" transform="translate(292 -65)">
+    <g id="Group_13275" data-name="Group 13275" transform="translate(-296.889 -3038.487)">
+      <g id="Group_13274" data-name="Group 13274" transform="translate(348 8)" clip-path="url(#clip-path)">
+        <g id="Group_13275-2" data-name="Group 13275" opacity="0.2">
+          <g id="Group">
+            <rect id="Rectangle" width="1486.224" height="251.204" transform="translate(-260.054 4140.209) rotate(-60)" fill="url(#radial-gradient)"/>
+            <rect id="Rectangle-Copy" width="1591.464" height="159.289" transform="translate(-166.621 4269.35) rotate(-60)" fill="url(#radial-gradient-2)"/>
+            <rect id="Rectangle-Copy-2" width="1591.464" height="376.918" transform="translate(-421.523 4122.5) rotate(-60)" fill="url(#radial-gradient-3)"/>
+          </g>
+          <g id="Group-Copy-3">
+            <rect id="Rectangle-2" width="1486.224" height="251.204" transform="translate(-26.41 4231.723) rotate(-60)" fill="url(#radial-gradient-4)"/>
+            <rect id="Rectangle-Copy-2-2" width="1591.464" height="159.289" transform="translate(67.023 4360.863) rotate(-60)" fill="url(#radial-gradient-5)"/>
+            <rect id="Rectangle-Copy-2-3" width="1591.464" height="376.918" transform="translate(-187.879 4214.013) rotate(-60)" fill="url(#radial-gradient-6)"/>
+          </g>
+          <g id="Group-Copy">
+            <rect id="Rectangle-3" width="251.204" height="1486.224" transform="translate(250.546 2804.258) rotate(-30)" fill="url(#radial-gradient-7)"/>
+            <rect id="Rectangle-Copy-3" width="159.289" height="1591.464" transform="translate(184.093 2796.301) rotate(-30)" fill="url(#radial-gradient-8)"/>
+            <rect id="Rectangle-Copy-2-4" width="376.918" height="1591.464" transform="translate(250.524 2758.265) rotate(-30)" fill="url(#radial-gradient-9)"/>
+          </g>
+          <g id="Group-Copy-2">
+            <rect id="Rectangle-4" width="251.204" height="1486.224" transform="translate(-61.741 2856.306) rotate(-30)" fill="url(#radial-gradient-10)"/>
+            <rect id="Rectangle-Copy-4" width="159.289" height="1591.464" transform="translate(-128.194 2848.349) rotate(-30)" fill="url(#radial-gradient-11)"/>
+            <rect id="Rectangle-Copy-2-5" width="376.918" height="1663.53" transform="translate(-61.764 2810.313) rotate(-30)" fill="url(#radial-gradient-12)"/>
+          </g>
+          <g id="Group-2">
+            <rect id="Rectangle-Copy-51" width="1740.458" height="2.288" transform="translate(-150.989 4277.67) rotate(-60)" fill="url(#linear-gradient)"/>
+            <rect id="Rectangle-Copy-52" width="1740.458" height="2.288" transform="translate(-144.984 4281.102) rotate(-60)" fill="url(#linear-gradient-2)"/>
+            <rect id="Rectangle-Copy-54" width="1740.458" height="2.288" transform="translate(-138.978 4284.534) rotate(-60)" fill="url(#linear-gradient-3)"/>
+            <rect id="Rectangle-Copy-53" width="1740.458" height="2.288" transform="translate(-133.259 4287.966) rotate(-60)" fill="url(#linear-gradient-4)"/>
+            <rect id="Rectangle-Copy-58" width="1740.458" height="2.288" transform="translate(-127.539 4291.396) rotate(-60)" fill="url(#linear-gradient-5)"/>
+            <rect id="Rectangle-Copy-57" width="1740.458" height="2.288" transform="translate(-121.533 4294.829) rotate(-60)" fill="url(#linear-gradient-6)"/>
+            <rect id="Rectangle-Copy-56" width="1740.458" height="2.288" transform="translate(-115.528 4297.975) rotate(-60)" fill="url(#linear-gradient-7)"/>
+            <rect id="Rectangle-Copy-55" width="1740.458" height="2.288" transform="translate(-109.809 4301.406) rotate(-60)" fill="url(#linear-gradient-8)"/>
+            <rect id="Rectangle-Copy-66" width="1740.458" height="2.288" transform="translate(-104.089 4304.837) rotate(-60)" fill="url(#linear-gradient-9)"/>
+            <rect id="Rectangle-Copy-65" width="1740.458" height="2.288" transform="translate(-98.083 4308.27) rotate(-60)" fill="url(#linear-gradient-10)"/>
+            <rect id="Rectangle-Copy-64" width="1740.458" height="2.288" transform="translate(-92.364 4311.702) rotate(-60)" fill="url(#linear-gradient-11)"/>
+            <rect id="Rectangle-Copy-63" width="1740.458" height="2.288" transform="translate(-86.358 4315.133) rotate(-60)" fill="url(#linear-gradient-12)"/>
+            <rect id="Rectangle-Copy-62" width="1740.458" height="2.288" transform="translate(-80.353 4318.564) rotate(-60)" fill="url(#linear-gradient-13)"/>
+            <rect id="Rectangle-Copy-61" width="1740.458" height="2.288" transform="translate(-74.633 4321.71) rotate(-60)" fill="url(#linear-gradient-14)"/>
+            <rect id="Rectangle-Copy-60" width="1740.458" height="2.288" transform="translate(-68.914 4325.143) rotate(-60)" fill="url(#linear-gradient-15)"/>
+            <rect id="Rectangle-Copy-59" width="1740.458" height="2.288" transform="translate(-62.622 4328.288) rotate(-60)" fill="url(#linear-gradient-16)"/>
+          </g>
+          <g id="Group-2-Copy">
+            <rect id="Rectangle-Copy-51-2" width="1740.458" height="2.288" transform="translate(207.293 4304.015) rotate(-60)" fill="url(#linear-gradient-17)"/>
+            <rect id="Rectangle-Copy-52-2" width="1740.458" height="2.288" transform="translate(213.299 4307.447) rotate(-60)" fill="url(#linear-gradient-18)"/>
+            <rect id="Rectangle-Copy-54-2" width="1740.458" height="2.288" transform="translate(219.304 4310.878) rotate(-60)" fill="url(#linear-gradient-19)"/>
+            <rect id="Rectangle-Copy-53-2" width="1740.458" height="2.288" transform="translate(225.024 4314.311) rotate(-60)" fill="url(#linear-gradient-20)"/>
+            <rect id="Rectangle-Copy-58-2" width="1740.458" height="2.288" transform="translate(230.743 4317.742) rotate(-60)" fill="url(#linear-gradient-21)"/>
+            <rect id="Rectangle-Copy-57-2" width="1740.458" height="2.288" transform="translate(236.749 4321.173) rotate(-60)" fill="url(#linear-gradient-22)"/>
+            <rect id="Rectangle-Copy-56-2" width="1740.458" height="2.288" transform="translate(242.754 4324.319) rotate(-60)" fill="url(#linear-gradient-23)"/>
+            <rect id="Rectangle-Copy-55-2" width="1740.458" height="2.288" transform="translate(248.474 4327.75) rotate(-60)" fill="url(#linear-gradient-24)"/>
+            <rect id="Rectangle-Copy-66-2" width="1740.458" height="2.288" transform="translate(254.193 4331.183) rotate(-60)" fill="url(#linear-gradient-25)"/>
+            <rect id="Rectangle-Copy-65-2" width="1740.458" height="2.288" transform="translate(260.199 4334.615) rotate(-60)" fill="url(#linear-gradient-26)"/>
+            <rect id="Rectangle-Copy-64-2" width="1740.458" height="2.288" transform="translate(265.918 4338.046) rotate(-60)" fill="url(#linear-gradient-27)"/>
+            <rect id="Rectangle-Copy-63-2" width="1740.458" height="2.288" transform="translate(271.924 4341.478) rotate(-60)" fill="url(#linear-gradient-28)"/>
+            <rect id="Rectangle-Copy-62-2" width="1740.458" height="2.288" transform="translate(277.93 4344.91) rotate(-60)" fill="url(#linear-gradient-29)"/>
+            <rect id="Rectangle-Copy-61-2" width="1740.458" height="2.288" transform="translate(283.649 4348.056) rotate(-60)" fill="url(#linear-gradient-30)"/>
+            <rect id="Rectangle-Copy-60-2" width="1740.458" height="2.288" transform="translate(289.368 4351.488) rotate(-60)" fill="url(#linear-gradient-31)"/>
+            <rect id="Rectangle-Copy-59-2" width="1740.458" height="2.288" transform="translate(295.66 4354.632) rotate(-60)" fill="url(#linear-gradient-32)"/>
+          </g>
+          <g id="Group-2-Copy-2">
+            <rect id="Rectangle-Copy-51-3" width="2.288" height="1740.458" transform="translate(-189.834 2745.545) rotate(-30)" fill="url(#linear-gradient-33)"/>
+            <rect id="Rectangle-Copy-52-3" width="2.288" height="1740.458" transform="translate(-195.84 2748.977) rotate(-30)" fill="url(#linear-gradient-34)"/>
+            <rect id="Rectangle-Copy-54-3" width="2.288" height="1740.458" transform="translate(-201.845 2752.408) rotate(-30)" fill="url(#linear-gradient-35)"/>
+            <rect id="Rectangle-Copy-53-3" width="2.288" height="1740.458" transform="translate(-207.565 2755.84) rotate(-30)" fill="url(#linear-gradient-36)"/>
+            <rect id="Rectangle-Copy-58-3" width="2.288" height="1740.458" transform="translate(-213.284 2759.272) rotate(-30)" fill="url(#linear-gradient-37)"/>
+            <rect id="Rectangle-Copy-57-3" width="2.288" height="1740.458" transform="translate(-219.29 2762.703) rotate(-30)" fill="url(#linear-gradient-38)"/>
+            <rect id="Rectangle-Copy-56-3" width="2.288" height="1740.458" transform="translate(-225.295 2765.849) rotate(-30)" fill="url(#linear-gradient-39)"/>
+            <rect id="Rectangle-Copy-55-3" width="2.288" height="1740.458" transform="translate(-231.015 2769.281) rotate(-30)" fill="url(#linear-gradient-40)"/>
+            <rect id="Rectangle-Copy-66-3" width="2.288" height="1740.458" transform="translate(-236.734 2772.713) rotate(-30)" fill="url(#linear-gradient-41)"/>
+            <rect id="Rectangle-Copy-65-3" width="2.288" height="1740.458" transform="translate(-242.74 2776.144) rotate(-30)" fill="url(#linear-gradient-42)"/>
+            <rect id="Rectangle-Copy-64-3" width="2.288" height="1740.458" transform="translate(-248.459 2779.576) rotate(-30)" fill="url(#linear-gradient-43)"/>
+            <rect id="Rectangle-Copy-63-3" width="2.288" height="1740.458" transform="translate(-254.465 2783.008) rotate(-30)" fill="url(#linear-gradient-44)"/>
+            <rect id="Rectangle-Copy-62-3" width="2.288" height="1740.458" transform="translate(-260.47 2786.44) rotate(-30)" fill="url(#linear-gradient-45)"/>
+            <rect id="Rectangle-Copy-61-3" width="2.288" height="1740.458" transform="translate(-266.19 2789.585) rotate(-30)" fill="url(#linear-gradient-46)"/>
+            <rect id="Rectangle-Copy-60-3" width="2.288" height="1740.458" transform="translate(-271.909 2793.017) rotate(-30)" fill="url(#linear-gradient-47)"/>
+            <rect id="Rectangle-Copy-59-3" width="2.288" height="1740.458" transform="translate(-278.201 2796.163) rotate(-30)" fill="url(#linear-gradient-48)"/>
+          </g>
+          <g id="Group-2-Copy-3">
+            <rect id="Rectangle-Copy-51-4" width="2.288" height="1740.458" transform="translate(417.867 2365.196) rotate(-30)" fill="url(#linear-gradient-49)"/>
+            <rect id="Rectangle-Copy-52-4" width="2.288" height="1740.458" transform="translate(411.861 2368.628) rotate(-30)" fill="url(#linear-gradient-50)"/>
+            <rect id="Rectangle-Copy-54-4" width="2.288" height="1740.458" transform="translate(405.856 2372.059) rotate(-30)" fill="url(#linear-gradient-51)"/>
+            <rect id="Rectangle-Copy-53-4" width="2.288" height="1740.458" transform="translate(400.136 2375.491) rotate(-30)" fill="url(#linear-gradient-52)"/>
+            <rect id="Rectangle-Copy-58-4" width="2.288" height="1740.458" transform="translate(394.417 2378.923) rotate(-30)" fill="url(#linear-gradient-53)"/>
+            <rect id="Rectangle-Copy-57-4" width="2.288" height="1740.458" transform="translate(388.411 2382.354) rotate(-30)" fill="url(#linear-gradient-54)"/>
+            <rect id="Rectangle-Copy-56-4" width="2.288" height="1740.458" transform="translate(382.406 2385.5) rotate(-30)" fill="url(#linear-gradient-55)"/>
+            <rect id="Rectangle-Copy-55-4" width="2.288" height="1740.458" transform="translate(376.686 2388.932) rotate(-30)" fill="url(#linear-gradient-56)"/>
+            <rect id="Rectangle-Copy-66-4" width="2.288" height="1740.458" transform="translate(370.967 2392.364) rotate(-30)" fill="url(#linear-gradient-57)"/>
+            <rect id="Rectangle-Copy-65-4" width="2.288" height="1740.458" transform="translate(364.961 2395.795) rotate(-30)" fill="url(#linear-gradient-58)"/>
+            <rect id="Rectangle-Copy-64-4" width="2.288" height="1740.458" transform="translate(359.242 2399.227) rotate(-30)" fill="url(#linear-gradient-59)"/>
+            <rect id="Rectangle-Copy-63-4" width="2.288" height="1740.458" transform="translate(353.236 2402.659) rotate(-30)" fill="url(#linear-gradient-60)"/>
+            <rect id="Rectangle-Copy-62-4" width="2.288" height="1740.458" transform="translate(347.231 2406.091) rotate(-30)" fill="url(#linear-gradient-61)"/>
+            <rect id="Rectangle-Copy-61-4" width="2.288" height="1740.458" transform="translate(341.511 2409.236) rotate(-30)" fill="url(#linear-gradient-62)"/>
+            <rect id="Rectangle-Copy-60-4" width="2.288" height="1740.458" transform="translate(335.792 2412.668) rotate(-30)" fill="url(#linear-gradient-63)"/>
+            <rect id="Rectangle-Copy-59-4" width="2.288" height="1740.458" transform="translate(329.5 2415.814) rotate(-30)" fill="url(#linear-gradient-64)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
